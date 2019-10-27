@@ -1,3 +1,1 @@
-# cf_kit
-CF
-samcaspus
+Authors:: samcaspus, Mohammad Faisal
