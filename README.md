@@ -1,2 +1,1 @@
-# cf_kit
-Authors:: Mohammad Faisal
+Authors:: samcaspus, Mohammad Faisal
