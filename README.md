@@ -1,2 +1,2 @@
 # cf_kit
-CF
+Authors:: Mohammad Faisal
