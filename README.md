@@ -1,2 +1,2 @@
 # cf_kit
-Codeforces solutions
+CF
